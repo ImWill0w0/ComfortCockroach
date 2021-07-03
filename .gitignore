@@ -1,0 +1,17 @@
+
+tools_asset_info.bin
+sounds/cockroachmusic.sound
+sounds/cockroachmusic.mp3
+README.md
+materials/cockroach_spritesheet_m.png
+materials/cockroach_spritesheet.png
+materials/cockroach.vmat
+materials/cockroach.gif
+maps/comfortingcockroaches_bakeresourcecache.vpk
+maps/comfortingcockroaches.vmap
+maps/comfortingcockroaches.los
+maps/_bakeresourcecache/comfortingcockroaches_baked/env_light_probe_volume_41.vtex
+maps/_bakeresourcecache/comfortingcockroaches_baked/env_light_probe_volume_41.exr
+maps/_bakeresourcecache/comfortingcockroaches_baked/env_cubemap_41.vtex
+maps/_bakeresourcecache/comfortingcockroaches_baked/env_cubemap_41.txt
+maps/_bakeresourcecache/comfortingcockroaches_baked/env_cubemap_41.exr
