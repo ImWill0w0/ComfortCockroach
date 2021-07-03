@@ -22,9 +22,9 @@ namespace MinimalExample
 	/// as your game addon. If it isn't then we won't be able to find it.
 	/// </summary>
 	[Library("comfortcockroach", Title = "comfortcockroach")]
-	public partial class MinimalGame : Sandbox.Game
+	public partial class ComfortingCockroaches : Sandbox.Game
 	{
-		public MinimalGame()
+		public ComfortingCockroaches()
 		{
 			if ( IsServer )
 			{
