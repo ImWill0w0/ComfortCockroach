@@ -1,5 +1,20 @@
 {
-	"name": "Comforting Cockroaches"
+	"name": "comfortcockroach",
 	"sharedassets": "*.*",
-	"ident": "willow.comfortcockroach"
+		
+    "depends": 
+    [
+      "base",
+	  "citizen",
+	  "rust"
+    ],
+
+	"gamemodes":
+	[
+		{
+			"name": "comfortcockroach",
+			"title": "Comforting Cockroaches"
+			"ident": "willow.comfortcockroach"
+		}
+	]
 }
