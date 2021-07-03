@@ -1,7 +1,6 @@
 {
 	"name": "comfortcockroach",
 	"sharedassets": "*.*",
-	"ident": "willow.comfortcockroach"
 		
     "depends": 
     [
