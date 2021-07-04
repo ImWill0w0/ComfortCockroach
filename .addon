@@ -1,19 +1,4 @@
 {
-	"name": "comfortcockroach",
 	"sharedassets": "*.*",
-		
-    "depends": 
-    [
-      "base",
-	  "citizen",
-	  "rust"
-    ],
-
-	"gamemodes":
-	[
-		{
-			"name": "comfortcockroach",
-			"title": "Comforting Cockroaches"
-		}
-	]
+	"ident": "willow.comfortcockroach"
 }
