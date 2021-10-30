@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 //
 namespace ComfortCockroach
 {
-	public partial class cockroaches : Sandbox.Game
+	public partial class ComfortCockroach : Sandbox.Game
 	{
-		public cockroaches()
+		public ComfortCockroach()
 		{
 			if ( IsServer )
 			{
