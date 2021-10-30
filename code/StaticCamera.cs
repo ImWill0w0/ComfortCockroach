@@ -1,7 +1,7 @@
 ﻿using Sandbox;
 using System;
 
-namespace comfortcockroach
+namespace ComfortCockroach
 {
 	public partial class StaticCamera : Camera
 	{
