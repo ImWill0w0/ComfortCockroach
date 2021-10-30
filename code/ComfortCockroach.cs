@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 //
 namespace comfortcockroach
 {
-	[Library("comfortcockroach", Title = "comfortcockroach")]
 	public partial class comfortcockroach : Sandbox.Game
 	{
 		public comfortcockroach()
