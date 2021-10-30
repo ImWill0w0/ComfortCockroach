@@ -21,7 +21,7 @@ namespace comfortcockroach
 			if (Local.Pawn is Player player)
 			{
 				FieldOfView = 65f;
-				Position = Pos.LerpTo(100f,0f);
+				Position = Position.LerpTo(100f,0f);
 				Rotation = player.Rotation;
 			}
 
