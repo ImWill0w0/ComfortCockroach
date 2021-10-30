@@ -9,8 +9,8 @@ namespace comfortcockroach
 		{
 			if (Local.Pawn is Player player)
 			{
-				Pos = player.Position;
-				Rot = player.Rotation;
+				Position = player.Position;
+				Rotation = player.Rotation;
 			}
 
 			base.Activated();
@@ -21,8 +21,8 @@ namespace comfortcockroach
 			if (Local.Pawn is Player player)
 			{
 				FieldOfView = 65f;
-				Pos = Pos.LerpTo(100f,0f);
-				Rot = player.Rotation;
+				Position = Pos.LerpTo(100f,0f);
+				Rotation = player.Rotation;
 			}
 
 			Viewer = null;
