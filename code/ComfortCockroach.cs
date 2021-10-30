@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 //
 // You don't need to put things in a namespace, but it doesn't hurt.
 //
-namespace comfortcockroach
+namespace ComfortCockroach
 {
-	public partial class comfortcockroach : Sandbox.Game
+	public partial class ComfortCockroach : Sandbox.Game
 	{
-		public comfortcockroach()
+		public ComfortCockroach()
 		{
 			if ( IsServer )
 			{

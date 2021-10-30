@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace comfortcockroach
+namespace ComfortCockroach
 {
 	partial class MinimalPlayer : Player
 	{
